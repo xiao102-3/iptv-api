@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-25 18:52:29,http://23.237.228.134/live5/CCTV1.m3u8$订阅源
+2026-02-27 18:40:16,http://23.237.228.134/live5/CCTV1.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8$订阅源
@@ -57,9 +57,9 @@ CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=28201805160
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a$订阅源
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8$订阅源
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$订阅源
 湖南卫视,http://69.30.246.194/live/hnws.m3u8$订阅源
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$订阅源
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 北京卫视,http://23.237.228.134/live3/beijing.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8$订阅源
@@ -82,8 +82,8 @@ CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=28201805160
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8$订阅源
 河北卫视,http://23.237.228.134/live8/hebei.m3u8$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 河南卫视,http://23.237.228.134/live6/henan.m3u8$订阅源
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
 吉林卫视,http://23.237.228.134/live8/jilin.m3u8$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
@@ -121,15 +121,14 @@ CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=28201805160
 大宁综合,http://live.daningtv.com/tv/playlist.m3u8$订阅源
 大宁综合,http://live.daningtv.com/aac_dngb/playlist.m3u8$订阅源
 大宁综合,http://live.daningtv.com/channel1/sd/live.m3u8?zshanxd$订阅源
-太谷新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8$订阅源
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0$订阅源
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0$订阅源
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tpid=1516989100&amp;type=0$订阅源
+太谷新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8$订阅源
 武乡新闻综合,http://60.220.198.84:81/0.m3u8$订阅源
 长子综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd$订阅源
 闻喜综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd$订阅源
 黎城综合,http://111.53.96.67:8081/live/1/index.m3u8$订阅源
-黎城综合,http://111.53.96.67:8081/live/1/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 
 🌊港·澳·台,#genre#
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23$订阅源
@@ -173,8 +172,8 @@ CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8$订阅源
 🪁动画频道,#genre#
 动漫秀场,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG65Z92UDWjXjUztx8_6jXB9paauw4zZI0JtsOY0HKF0lC8_JLi2pa2Ma0in_8jninRMK9S6ET_iXvB0tt02GhFMVjLlS7gQGcvNT4wy5TGJ-pnjzynVYXfleaV6B-PTVjzainvo1nrtsX0XQfIjD4Wu_342NdqjeGOY-wKDY51eFJJmRV1ksdNOtjFabg76ifiDVsRkidO7CjSocYw1pRIQ.m3u8?u=1757123819$订阅源
 金鹰卡通,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGos9NTI_Mau8qi-hRVSi5goaf_HHYwROc_XStLk4MMm4zaeaXYswVihgt5wmtayNdgMywiju4lzhjxo0E3vyqLc3cMjqy-P6s-m0akkiRO4oPq9ClYYF9GURBEBaOfnmQ_pM5lMCBOBjz3op_Y3H_eAeoiTC4-yIDwsqwDIzNMwqmYqAIux8muk0U9fRZAsaoGgKjacnzrvaYi6fw-uIvsQ.m3u8?u=1757123819$订阅源
-金鹰卡通,http://125.43.249.130:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-金鹰卡通,http://221.13.235.245:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+金鹰卡通,http://101.66.199.78:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+金鹰卡通,http://101.66.199.142:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8$订阅源
 海绵宝宝,http://1.94.31.214:35455/huya/11352919$订阅源
