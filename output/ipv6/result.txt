@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-03 20:08:53,https://www.freetv.top/migu/624878271.m3u8?migutoken=ab337350191d49738c0947c4edfb2d72445dadbfd53e36b287a30881028262fffbe9ba284ac062a14452f0d90c7a75d16101edb3adc14999ae8771aabc77b40c78d14137bb14e68fd6cd1a8d67$订阅源
+2026-07-05 19:31:24,https://www.freetv.top/migu/624878271.m3u8?migutoken=ab337350191d49738c0947c4edfb2d72445dadbfd53e36b287a30881028262fffbe9ba284ac062a14452f0d90c7a75d16101edb3adc14999ae8771aabc77b40c78d14137bb14e68fd6cd1a8d67$订阅源
 
 📺央视频道,#genre#
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=ab337350191d49738c0947c4edfb2d72445dadbfd53e36b287a30881028262fffbe9ba284ac062a14452f0d90c7a75d16101edb3adc14999ae8771aabc77b40c78d14137bb14e68fd6cd1a8d67$订阅源
@@ -234,13 +234,6 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=04826a9d5cfc1d3166d
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
-七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
-七龙珠,https://live.metshop.top/huya/11601966$订阅源
-海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
-中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
-中华小当家,https://live.metshop.top/huya/11342413$订阅源
-猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
-猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 
 🎮游戏频道,#genre#
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0$订阅源
@@ -257,6 +250,3 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ad38294ea17b61fb4e3
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=b3f5f563a0e87a8d4215ce2f21de8c4ba355f6b7cecac5f686433bc2809f1a670c2454c39a4c60e3d446e610daf4c9bb26feea0ee07ed55a05d6b332b10381aa4ffb12bb3db425336f25a43987$订阅源
 
 🏛经典剧场,#genre#
-天龙八部,https://live.metshop.top/huya/23903123$订阅源
-封神榜,https://live.metshop.top/huya/29465849$订阅源
-射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
