@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-17 18:34:39,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-08-19 20:01:59,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -95,6 +95,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
+笑傲江湖,https://live.metshop.top/huya/23865142$订阅源
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
 封神榜,https://live.metshop.top/huya/29465849$订阅源
 射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
