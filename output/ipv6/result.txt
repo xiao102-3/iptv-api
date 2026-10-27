@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-10-25 22:09:44,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
+2026-10-27 23:46:50,https://php.jdshipin.com/TVOD/iptv.php$订阅源
 
 📺央视频道,#genre#
+CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
@@ -51,6 +52,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php$订阅源
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$订阅源
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
@@ -74,12 +76,8 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
 七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
-七龙珠,https://live.metshop.top/huya/11601966$订阅源
-海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
-中华小当家,https://live.metshop.top/huya/11342413$订阅源
 猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
-猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 
 🎮游戏频道,#genre#
@@ -89,7 +87,3 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-笑傲江湖,https://live.metshop.top/huya/23865142$订阅源
-天龙八部,https://live.metshop.top/huya/23903123$订阅源
-封神榜,https://live.metshop.top/huya/29465849$订阅源
-射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
